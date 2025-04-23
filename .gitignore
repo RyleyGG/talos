@@ -1,0 +1,5 @@
+.venv
+
+.vosk_models
+!.vosk_models/.gitkeep
+.idea
